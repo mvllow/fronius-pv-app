@@ -1,0 +1,7 @@
+{
+  "systemSizeInWatts": 7500,
+  "installedCostPerWatt": 3.57,
+  "labourPerHour": 50.3,
+  "engineerPerHour": 100,
+  "serviceTrips": 600
+}
